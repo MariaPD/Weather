@@ -1,0 +1,9 @@
+Hello! Good morning.
+Congrats for the "Book Store" exercise. Nice to see how you are growing like future developers.
+In this case I don't want to say you how to make nothing in the project. Let fly your imagination.
+I show you a sneak peak of my possible solution. You need to make something like this, or something completely different. Play!!
+Here is the data:
+https://api.myjson.com/bins/i8run
+And here is the snapshot of my project:
+https://drive.google.com/file/d/0B7MuB9FR6W82SmQtWU9jRU5aekE/view?usp=sharing
+Good luck guys.
